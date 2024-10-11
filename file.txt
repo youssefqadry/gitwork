@@ -3,3 +3,4 @@ Second line in file
 Third line in file
 First line in testing branch
 Fifth line in testing branch
+sixth line 
